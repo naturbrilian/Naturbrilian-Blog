@@ -1,9 +1,21 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About / Tentang
 
-::github{repo="saicaca/fuwari"}
+# Hi Welcome to My Site and Blog
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I’m Liba Natur Brilian and also known as Natur or gingalibadeidara, a video editor and graphics designer with a deep passion for technology, art, music and content creator. When im not working i create vector and translating stuff.
+
+# Another Social Media & Contact #
+
+If you have any questions, suggestions, or just want to chat, feel free to reach out to me via X, Discord or my another socmed. I’m always excited to connect with people who share similar passions or offer different perspectives.
+
+## Facebook:
+1. [Lieba Natur Brilian](https://facebook.com/naturbrilian28)
+2. [Gingalibadeidara Works](https://facebook.com/gingalibadeidara.works)
+
+## Twitter:
+1. [@naturbrilian](https://twitter.com/naturbrilian)
+
+## Fediverse:
+1. Geoplanetary: [@naturbrilian@geoplanetary.net](https://geoplanetary.net/@naturbrilian)
+2. Misskey.id: [@gingalibadeidara@misskey.id](https://misskey.id/@gingalibadeidara)
+3. Mastodon: [@naturbrilian@mastodon.social](https://mastodon.social/@naturbrilian)
