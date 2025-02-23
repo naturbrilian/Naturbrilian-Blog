@@ -21,7 +21,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://naturbrilian.vercel.app",
+  site: "https://naturbrilian.my.id",
   base: "/",
   trailingSlash: "always",
   integrations: [
