@@ -2,6 +2,7 @@
 title: Anniversary of gingalibadeidara works 8 years (from Blogging until Translations Project)
 published: 2022-02-28
 image: './assets/my-waifu.jpeg'
+description: Anniversary of gingalibadeidara works
 tags: [Project]
 category: 'Blog'
 draft: false 
