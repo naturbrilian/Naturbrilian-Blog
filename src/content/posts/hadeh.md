@@ -3,6 +3,7 @@ title: Keluh kesah dan penyesalan soal hubungan pertemanan
 published: 2022-07-16
 image: './assets/chisato-selfies.jpg'
 tags: [Blogging]
+description: ini cuma keluh kesah
 category: Curhatan
 draft: false
 lang: id
