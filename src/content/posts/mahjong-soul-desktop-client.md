@@ -42,3 +42,7 @@ Ingin bermain versi lain? simpel kamu tinggal sunting di berkas index.html nya m
 Punya pertanyaan seputar permainan ini? tinggal kontak saya di twitter: [@naturbrilian](https://twitter.com/naturbrilian) atau [Peladen Discord](https://go.naturbrilian.my.id/discord)
 
 Ohiya, selain itu kamu juga bisa memainkannya melalui dmm melalui pranala berikut https://dmg.mahjongsoul.com/
+
+## Versi Video
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/nSzSK884S_o?si=Z0a-Pq_qYeHYsNBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
