@@ -8,6 +8,7 @@ draft: false
 lang: id
 ---
 
+> [!NOTE]
 > Perlu diingat ini adalah tutorial lama, untuk versi resmi sudah tersedia. Bisa jadi tidak bekerja dengan semestinya
 
 # PENGENALAN
