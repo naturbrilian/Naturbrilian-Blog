@@ -8,6 +8,7 @@ draft: false
 lang: en
 ---
 
+> [!NOTE]
 > Additional notes, this tutorial is very old and maybe not working for now, because official client is available on official website.
 
 ![image](https://cdn-ak.f.st-hatena.com/images/fotolife/g/gingalibadeidara/20220429/20220429092614.png)
