@@ -33,39 +33,23 @@ To be honest, I first became interested in the world of translation when I learn
 If you have any questions, suggestions, or just want to chat, feel free to reach out to me via X, Discord or my another socmed. I’m always excited to connect with people who share similar passions or offer different perspectives.
 
 ## Media social ##
-Facebook:
-
+### Facebook: ###
 1. [Lieba Natur Brilian](https://www.facebook.com/naturbrilian28)
-
 2. [Gingalibadeidara Works](https://fb.me/gingalibadeidara.works)
 
-​
+### Twitter: ###
+1. [@naturbrilian](https://x.com/naturbrilian)
 
-Twitter:
-
-1. [@naturbrilian](https://twitter.com/naturbrilian)
-
-​
-
-Fediverse/Mastodon:
-
+### Fediverse / Mastodon ###
 1. Geoplanetary: [@naturbrilian@geoplanetary.net](https://geoplanetary.net/@naturbrilian)
-
 2. Misskey: [@gingalibadeidara@misskey.id](https://misskey.id/@gingalibadeidara)
-
 3. Mastodon: [@naturbrilian@mastodon.social](https://mastodon.social/@naturbrilian)
 
-## PROJECT ##
-Translations:
-
-1. Github: [Lieba Natur Brilian](https://github.com/naturbrilian)
-
-2. Crowdin: [@naturbrilian](https://crowdin.com/profile/naturbrilian)
-
-​
-
-Graphics Design, and Vector
-
-1. Deviantart: [gingalibadeidara](https://deviantart.com/gingalibadeidara)
-
+## Project ##
+### Graphics Design, and Vector ###
+1. Deviantart: [gingalibadeidara](https://www.deviantart.com/gingalibadeidara)
 2. Pixiv: [hifumidaiki](https://pixiv.me/hifumidaiki)
+
+### Translations: ###
+1. Crowdin: [@naturbrilian](https://crowdin.com/profile/naturbrilian)
+2. Github:[Lieba Natur Brilian](https://github.com/naturbrilian)
