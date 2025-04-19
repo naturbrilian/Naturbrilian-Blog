@@ -15,13 +15,13 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: true,
+    src: 'assets/images/banner.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
-      enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      enable: true,         // Display the credit text of the banner image
+      text: '新雨 by Lifeline',              // Credit text to be displayed
+      url: 'https://www.pixiv.net/en/artworks/119584479'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/hdtf0-CU_400x400.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/tenko.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Lieba Natur Brilian',
   bio: 'Write anything and My Project | Menulis sesuatu dan pembaruan project',
   links: [
