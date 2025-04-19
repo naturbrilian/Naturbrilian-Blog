@@ -8,7 +8,6 @@ draft: false
 lang: en
 ---
 
-> [!NOTE]
 > Additional notes, this tutorial is very old and maybe not working for now, because official client is available on official website.
 
 ![image](https://cdn-ak.f.st-hatena.com/images/fotolife/g/gingalibadeidara/20220429/20220429092614.png)
@@ -31,7 +30,6 @@ How to change URL from EN Server to Japanese or CN Server? Simply, just edit Ind
 ![edit with notepad](https://cdn-ak.f.st-hatena.com/images/fotolife/g/gingalibadeidara/20220429/20220429095412.png)
 
 # Tutorial Video Version
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/nSzSK884S_o?si=Z0a-Pq_qYeHYsNBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+https://youtu.be/nSzSK884S_o
 
 

@@ -8,7 +8,6 @@ draft: false
 lang: id
 ---
 
-> [!NOTE]
 > Perlu diingat ini adalah tutorial lama, untuk versi resmi sudah tersedia. Bisa jadi tidak bekerja dengan semestinya
 
 # PENGENALAN
@@ -44,6 +43,5 @@ Punya pertanyaan seputar permainan ini? tinggal kontak saya di twitter: [@naturb
 
 Ohiya, selain itu kamu juga bisa memainkannya melalui dmm melalui pranala berikut https://dmg.mahjongsoul.com/
 
-## Versi Video
+## Video Version
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/nSzSK884S_o?si=Z0a-Pq_qYeHYsNBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
